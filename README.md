@@ -30,8 +30,3 @@
 
 
 
-- **T Prabakaran**
-- **prabhusabharish78@gmail.com**
-- [www.linkedin.com/in/prabhu-sabharish-671871259]
-
-Feel free to contribute, report issues, or provide feedback. Your collaboration is appreciated!
